@@ -1,3 +1,3 @@
-# hermano mira mi Wasapp
+# projects JS
 
 project for svelte js
